@@ -1,10 +1,5 @@
 <a id="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![project_license][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -16,7 +11,7 @@
     <img src="solifi-1-pic.PNG" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Job Application Form</h3>
+<h3 align="center">Job Application Form UI</h3>
 
   <p align="center">
     This project is made with ReactJS.This project consists of UI for a Job Application form
@@ -57,7 +52,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
+![Product Name Screen Shot][product-screenshot]
 
 Built a responsive and dynamic job application form using ReactJS. Implemented user-friendly UI components. Styled using CSS Modules and integrated accessibility best practices.
 
@@ -125,7 +120,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Bharath Chand - bharathchandgetla@gmail.com
 
 Project Link: [https://github.com/Chand-007/ApplicationForm.git](https://github.com/Chand-007/ApplicationForm.git)
 
