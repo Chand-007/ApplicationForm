@@ -42,12 +42,12 @@ button{
     display:flex;
     align-items: center;
     justify-content: space-evenly;
-     width:200px;
+    width:200px;
 }
 
 .red-color{
     width:3px;
-    height:10px;
+    height:15px;
     background-color: red;
 }
 .red-color-imp{
