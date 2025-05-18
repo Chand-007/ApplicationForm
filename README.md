@@ -107,7 +107,7 @@ To get a local copy up and running follow these simple example steps.
 ## Contributing
 
 please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
