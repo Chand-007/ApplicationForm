@@ -9,6 +9,10 @@
     margin-bottom:20px;
 }
 
+button{
+    cursor:pointer;
+}
+
 .container-three h2{
     margin-bottom: 10px;
 }
