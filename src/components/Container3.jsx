@@ -55,17 +55,17 @@ export default function Container3(){
 
                     <div className="label-one right-details">
 
-                    <div className="red-color"></div>
+                    <div className="red-color-imp"></div>
                     <select name="title-selection">
                         <option value="Mr.">Mr.</option>
                         <option value="Mrs.">Mrs.</option>
                         <option value="Master">Master</option>
                     </select>
-                    
+
                     </div>
 
                     <div className='label-two right-details'>
-                    <div className="red-color"></div>
+                    <div className="red-color-imp"></div>
                     <input type="text"/>
                     </div>
             
@@ -73,7 +73,7 @@ export default function Container3(){
                
 
                      <div className='label-three right-details'>
-                    <div className="red-color"></div>
+                    <div className="red-color-imp"></div>
                     <input type="text"/>
                      </div>
                     
@@ -88,7 +88,7 @@ export default function Container3(){
 
 
                      <div className='label-five right-details'>
-                    <div className="red-color"></div>
+                    <div className="red-color-imp"></div>
                     <input type="text"/>
                      </div>
                     
@@ -98,7 +98,7 @@ export default function Container3(){
                     
                
                     <div className='label-seven right-details'>
-                    <div className="red-color"></div>
+                    <div className="red-color-imp"></div>
                     <select name="privacy-policy-selection">
                         <option value="None">None</option>
                         <option value="Yes">Yes</option>
@@ -110,7 +110,7 @@ export default function Container3(){
 
                        
                      <div className='label-eight right-details'>
-                    <div className="red-color"></div>
+                    <div className="red-color-imp"></div>
                     <input type="file"/>
                      </div>
 
