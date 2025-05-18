@@ -30,6 +30,10 @@
     background-color: grey;
 }
 
+.register>p,.remainder>p,.login>p{
+    margin-left: 10px;
+}
+
 .impcont{
     display:flex;
     align-items: center;
@@ -38,7 +42,7 @@
 }
 
 .red-color{
-    width:5px;
+    width:3px;
     height:10px;
     background-color: red;
 }
@@ -181,3 +185,10 @@
     margin-bottom:5px;
 }
 
+.container-three p span a{
+    text-decoration: none;
+}
+
+label:last-child{
+    margin-top:-10px;
+}

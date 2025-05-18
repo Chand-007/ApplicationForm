@@ -167,7 +167,10 @@ export default function Container3(){
                 </div>
             </div>
 
-            <p>Please click here to read and review our privacy policy.</p>
+            <p>Please click 
+                <span>
+                    <a href='https://www.solifi.com/trust-center/privacy-policy/'> here</a>
+                    </span> to read and review our privacy policy.</p>
 
         </div>
     )
