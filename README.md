@@ -86,13 +86,13 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    git clone https://github.com/Chand-007/ApplicationForm
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-3. Change Directory
+2. Change Directory
    ```sh
    cd ApplicationForm
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
    ```
   4. Run server
      ```sh
