@@ -16,7 +16,7 @@
   <p align="center">
     This project is made with ReactJS.This project consists of UI for a Job Application form
     <br />
-    <a href="https://github.com/Chand-007/ApplicationForm"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Chand-007/ApplicationForm"><strong>Explore Repository »</strong></a>
     <br />
   </p>
 </div>
