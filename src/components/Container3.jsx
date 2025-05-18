@@ -19,68 +19,114 @@ export default function Container3(){
                 <p>To apply for jobs on this site you must register</p>
 
                 <div className="application-form">
-                <label>
-                    Title
+
+                    <div className="application-details">
+
+                        <div className="labels-all">
+                        <label>
+                            Title
+                        </label>
+                        <label>
+                            FirstName
+                        </label>
+                        <label>
+                            Surname
+                            <div className="bubble"></div>
+                        </label>
+                        <label>
+                            Preferred Name
+                        </label>
+                        <label>
+                            Email
+                        </label>
+                        <label>
+                            Mobile phone
+                        </label>
+                        <label>
+                            <p>Do you agree to the privacy policy</p>
+                        </label>
+                        <label>
+                            <p> Attach Resume</p>
+                         </label>
+                    </div>
+
+                    <div className='label-details'>
+
+
+                    <div className="label-one right-details">
+
                     <div className="red-color"></div>
                     <select name="title-selection">
                         <option value="Mr.">Mr.</option>
                         <option value="Mrs.">Mrs.</option>
                         <option value="Master">Master</option>
                     </select>
-                </label>
+                    
+                    </div>
 
-                <label>
-                    FirstName
+                    <div className='label-two right-details'>
                     <div className="red-color"></div>
                     <input type="text"/>
-                </label>
+                    </div>
+            
 
-                <label>
-                    Surname
-                    <div className="bubble"></div>
+               
+
+                     <div className='label-three right-details'>
                     <div className="red-color"></div>
                     <input type="text"/>
-                </label>
+                     </div>
+                    
+                
 
 
-                <label>
-                    Preferred Name
-                    <input type="text"/>
-                </label>
+                    <div className='label-four right-details'>
+                        <input type="text"/>
+                    </div>
+                    
+                
 
 
-                <label>
-                    Email
+                     <div className='label-five right-details'>
                     <div className="red-color"></div>
                     <input type="text"/>
-                </label>
-
-                <label>
-                    Mobile Phone
-                    <input type="text"/>
-                </label>
-
-
-                <label>
-                    <p>Do you agree to the privacy policy</p>
+                     </div>
+                    
+                    <div className='label-six right-details'>
+                        <input type="text"/>
+                    </div>
+                    
+               
+                    <div className='label-seven right-details'>
                     <div className="red-color"></div>
                     <select name="privacy-policy-selection">
                         <option value="None">None</option>
                         <option value="Yes">Yes</option>
                         <option value="No">No</option>
                     </select>
-                </label>
+                    </div>
 
+                    
 
-                <label>
-                    <p>Attach Resume</p>
+                       
+                     <div className='label-eight right-details'>
                     <div className="red-color"></div>
                     <input type="file"/>
-                </label>
+                     </div>
 
-                <div className="grey-border"></div>
 
-                <button className="register-button">Register</button>
+                    </div>
+
+                    
+                    </div>
+
+
+                    
+
+
+                     <div className="grey-border"></div>
+
+                    <button className="register-button">Register</button>
               </div>
             </div>
 

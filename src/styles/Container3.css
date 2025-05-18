@@ -52,11 +52,39 @@
     align-items: center;    
 }
 
-.application-form label{
+.labels-all{
+    width:300px;
+    height:inherit;
     display: flex;
+    flex-direction:column;
+    align-items: flex-end;
+    row-gap: 19px;
+}
+
+.label-details{
+    width:300px;
+    height:inherit;
+    display:flex;
+    flex-direction: column;
+    align-items: start;
+    margin-left: 5px;
+    row-gap: 10px;
+}
+
+.label-details .right-details{
+    display:flex;
     column-gap: 5px;
-    row-gap: 5px;
-    margin-bottom: 10px;
+}
+
+
+.label-four,.label-six{
+    margin-left:10px;
+}
+
+.application-details{
+    width:inherit;
+    height:300px;
+    display:flex;
 }
 
 .application-form input{
@@ -147,3 +175,4 @@
 .container-three p{
     margin-bottom:5px;
 }
+
