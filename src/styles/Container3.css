@@ -1,0 +1,42 @@
+.container-three{
+    display:flex;
+    flex-direction:column;
+    background-color: white;
+    width:600px;
+    height:500px;
+    padding:10px;
+    box-shadow:0 0 10px #ccc;
+}
+
+.container-three h2{
+    margin-bottom: 10px;
+}
+
+.register-container{
+    display:flex;
+    flex-direction: column;
+    background-color: rgb(207, 207, 207);
+    margin-bottom: 20px;
+}
+
+.register,.login,.remainder{
+    display:flex;
+    width:inherit;
+    height:25px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: grey;
+}
+
+.impcont{
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+     width:200px;
+}
+
+.red-color{
+    width:5px;
+    height:10px;
+    background-color: red;
+}

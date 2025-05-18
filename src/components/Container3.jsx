@@ -1,22 +1,24 @@
-
+import '../styles/Container3.css'
 
 export default function Container3(){
     return(
         <div className="container-three">
-            <h5>Get Started</h5>
+            <h2>Get Started</h2>
            
             <div className="register-container">
+
                 <div className="register">
                     <p>Register</p>
-                    <div classsName="imp-cont">
+                    <div className ="impcont">
                         <div className="red-color"></div>
                         <p> = </p>
                         <p>Required Information</p>
                     </div>
                 </div>
-            <p>To apply for jobs on this site you must register</p>
 
-            <div className="application-form">
+                <p>To apply for jobs on this site you must register</p>
+
+                <div className="application-form">
                 <label>
                     Title
                     <div className="red-color"></div>
@@ -79,13 +81,13 @@ export default function Container3(){
                 <div className="grey-border"></div>
 
                 <button className="register-button">Register</button>
-            </div>
+              </div>
             </div>
 
             <div className="login-container">
                 <div className="login">
                     <p>Login</p>
-                    <div className="imp-cont">
+                    <div className="impcont">
                         <div className="red-color"></div>
                         <p> = </p>
                         <p>Required Information</p>
@@ -104,7 +106,7 @@ export default function Container3(){
             <div className="remainder-container">
                 <div className="remainder">
                     <p>Remainder</p>
-                    <div className="imp-cont">
+                    <div className="impcont">
                         <div className="red-color"></div>
                         <p> = </p>
                         <p>Required Information</p>
