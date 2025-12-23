@@ -118,9 +118,6 @@ please fork the repo and create a pull request. You can also simply open an issu
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
-## Contact
-
-Bharath Chand - bharathchandgetla@gmail.com
 
 Project Link: [https://github.com/Chand-007/ApplicationForm.git](https://github.com/Chand-007/ApplicationForm.git)
 
