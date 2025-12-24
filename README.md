@@ -82,6 +82,32 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
+
+#### Running Application in Docker Containers
+1. Clone the repo
+```sh
+   git clone https://github.com/Chand-007/ApplicationForm
+```
+2. Change Directory
+```sh
+   cd ApplicationForm
+```
+3. Build Docker image
+```sh
+   docker build -t <name-of-image> .
+```
+
+substitute name of image you want to give above in <name-of-image>
+
+4. Run Docker container with above built image
+```sh
+     docker run -d -p 5000:5000 --name <name-of-container> <name-of-image>
+```
+
+substitute name of container as your wish and enter name of image built in previous step (step - 4)
+
+#### Running Application in Local
+
 1. Clone the repo
    ```sh
    git clone https://github.com/Chand-007/ApplicationForm
@@ -94,10 +120,10 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    npm install
    ```
-  4. Run server
-     ```sh
-     npm run dev
-     ``` 
+4. Start Application
+   ```sh
+   npm run dev
+   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
